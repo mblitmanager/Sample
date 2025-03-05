@@ -60,14 +60,7 @@ npm install  # Exemple pour un projet Node.js
 
 ## 🛠️ Technologies utilisées
 
-- 🖥️ Langage : [ex. JavaScript, Python]
-- 🛠️ Frameworks : [ex. React, Django]
+- 🖥️ Langage : [ex. JavaScript, PHP]
+- 🛠️ Frameworks : [ex. CodeIgniter, React, Symfony]
 - 📦 Outils : [ex. GitHub Actions, Docker]
 
-## 📄 Licence
-
-Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 💬 Contact
-
-Pour toute question, ouvrez une **Issue** ou contactez-moi à [email@example.com](mailto:email@example.com).
